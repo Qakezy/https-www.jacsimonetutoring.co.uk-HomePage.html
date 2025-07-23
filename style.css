@@ -20,14 +20,14 @@ h2   {color: #C46D5E;
     }
 .me{
   position: absolute;
-  top: 250px;
-  left: 1000px;
+  top: 13%;
+  left: 52%;
 }
 
 .me2{
   position:absolute;
-      top: 320px;
-      left: 1000px;
+      top: 17%;
+      left: 52%;
   font-size: 20px;
   font-family: Verdana;
 }
@@ -83,8 +83,8 @@ h2   {color: #C46D5E;
 
 .logo {
   position: absolute;
-  top: 5px;
-  left: -10px;
+  top: 0.25%;
+  left: 0.5%;
   width: 100px;
   height: auto;
 }
